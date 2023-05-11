@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\bin\Debug\NPL.SMS.exe.config
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\bin\Debug\NPL.SMS.exe
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\bin\Debug\NPL.SMS.pdb
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\obj\Debug\NPL.SMS.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\obj\Debug\NPL.SMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\obj\Debug\NPL.SMS.exe
+C:\Users\ASUS\Documents\GitHub\NPL.SMS_Nhom2\NPL.SMS\obj\Debug\NPL.SMS.pdb
